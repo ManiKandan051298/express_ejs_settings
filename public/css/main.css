@@ -1,0 +1,16 @@
+body {
+    background-color: aqua !important;
+}
+
+.wrapper {
+    width: 700px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 10px;
+}
+
+header,
+footer {
+    background-color: yellow;
+    padding: 20px;
+}
